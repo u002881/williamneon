@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @williamneon
 - 👀 I’m interested in complete this README.md some day
 - 🌱 I’m currently learning how to not procrastinate
-- 💞️ I’m looking to collaborate on drinking a coffee
+- ☕ I’m looking to collaborate on drinking a coffee
 - 📫 How to reach me: william.augusto@neon.com.br
 
 <!---
